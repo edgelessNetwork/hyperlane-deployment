@@ -1,0 +1,5 @@
+edgeless:
+  threshold: 1
+  validators:
+    - "0x0Ce3d9bca956C9edb80ef93F5A095568aF37e1A5"
+

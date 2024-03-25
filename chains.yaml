@@ -1,0 +1,13 @@
+edgeless:
+  name: edgeless
+  chainId: 2026
+  domainId: 2026
+  protocol: ethereum
+  rpcUrls:
+    - http: https://rpc.edgeless.network/http
+  blocks:
+    confirmations: 1
+    reorgPeriod: 1
+    estimateBlockTime: 1
+  transactionOverrides:
+    gasPrice: 10000000

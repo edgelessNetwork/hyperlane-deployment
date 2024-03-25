@@ -1,0 +1,43 @@
+{
+  "edgeless": {
+    "merkleRootMultisigIsmFactory": "0xB0868c52300d828A32BBfbd4A141A14fcB9AE417",
+    "messageIdMultisigIsmFactory": "0x9944fd5AA6C629e4782BBcc0942f12700D01190F",
+    "aggregationIsmFactory": "0x86B014fa3f74E9006ccb5508E440aeCA4961647E",
+    "aggregationHookFactory": "0x5b55E572d08fb3D39e86ec2D3E3fCAEF6fA30590",
+    "routingIsmFactory": "0xcF4739C689fEF9AeAEdc2136d79A21DFA78f0447",
+    "interchainSecurityModule": "0xe586EEC7Fb5D914d12Fd95e2D7CD7a44EFE15FEc",
+    "arbitrum": {
+      "messageIdMultisigIsm": "0x20189a3237742632E7a6e0d61f2c6EDE0A45Ab94",
+      "merkleRootMultisigIsm": "0xa569C101CB37C4BB3a771070E7c5a6b76a03E95b",
+      "staticAggregationIsm": "0xe10BDbe5Ca8F69DfC1febcec4C9798aDbF6E8Dad"
+    },
+    "domainRoutingIsm": "0xe586EEC7Fb5D914d12Fd95e2D7CD7a44EFE15FEc",
+    "merkleTreeHook": "0x5bd0F3F1d8d06EDa1fF30b63d48116264c23c320",
+    "protocolFee": "0x536BefDB77846a7EB737F4A518D72A1e46faAf0a",
+    "testRecipient": "0x57Ddc719d6C82C2f28adc6f0890F898E794D973b",
+    "mailbox": "0x6adB42B74B03B65956da6f8E23FF9d0F56eAe1a7",
+    "proxyAdmin": "0xbA49645A020859F32171267640C6dA1ac5C87b92",
+    "validatorAnnounce": "0x49C594960ec57C8Fd9beD77eF6f8D955f7130c35"
+  },
+  "arbitrum": {
+    "merkleRootMultisigIsmFactory": "0x3C330D4A2e2b8443AFaB8E326E64ab4251B7Eae0",
+    "messageIdMultisigIsmFactory": "0x12Df53079d399a47e9E730df095b712B0FDFA791",
+    "aggregationIsmFactory": "0xD4883084389fC1Eeb4dAfB2ADcFc36B711c310EB",
+    "aggregationHookFactory": "0x9B5f440bBb64Fee337F37e03362b628711Ea09C7",
+    "routingIsmFactory": "0xa2931C37957f3079d3B21b877d56E1db930e02a5",
+    "interchainSecurityModule": "0x20300839bE77b585e8c01359e4b983cfA6a96e49",
+    "edgeless": {
+      "messageIdMultisigIsm": "0xd7aE908127f44E52bA23dF6C59493226353C50B4",
+      "merkleRootMultisigIsm": "0xD6fa9495956EFE8a00d82C9a5eAd4CEf40927018",
+      "staticAggregationIsm": "0x245c1Bdd71ca34B705737677Cdc7A13c92c54684"
+    },
+    "domainRoutingIsm": "0x20300839bE77b585e8c01359e4b983cfA6a96e49",
+    "merkleTreeHook": "0x748040afB89B8FdBb992799808215419d36A0930",
+    "protocolFee": "0xD0199067DACb8526e7dc524a9a7DCBb57Cd25421",
+    "customHook": "0x748040afB89B8FdBb992799808215419d36A0930",
+    "testRecipient": "0xcF4739C689fEF9AeAEdc2136d79A21DFA78f0447",
+    "mailbox": "0x979Ca5202784112f4738403dBec5D0F3B9daabB9",
+    "proxyAdmin": "0x80Cebd56A65e46c474a1A101e89E76C4c51D179c",
+    "validatorAnnounce": "0x1df063280C4166AF9a725e3828b4dAC6c7113B08"
+  }
+}
